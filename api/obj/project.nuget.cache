@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yhx/1IXv8E8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shravani S\\GuruAI\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shravani S\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Shravani S\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
