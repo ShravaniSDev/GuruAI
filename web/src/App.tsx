@@ -7,6 +7,7 @@ import TargetProtocol from "./pages/TargetProtocol";
 import Vault from "./pages/Vault";
 import GuruNotes from "./pages/GuruNotes";
 import Progress from "./pages/Progress";
+import GuruScore from "./pages/GuruScore";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
             <Route path="/vault" element={<Vault />} />
             <Route path="/notes" element={<GuruNotes />} />
             <Route path="/progress" element={<Progress />} />
+            <Route path="/guruscore" element={<GuruScore />} />
           </Routes>
         </div>
       </div>

@@ -10,6 +10,7 @@ function Sidebar() {
         <Link to="/vault" className="block hover:text-yellow-400">Vault</Link>
         <Link to="/notes" className="block hover:text-yellow-400">Guru Notes</Link>
         <Link to="/progress" className="block hover:text-yellow-400">Progress</Link>
+        <Link to="/guruscore" className="block hover:text-yellow-400">Guru Score</Link>
       </nav>
     </aside>
   );
