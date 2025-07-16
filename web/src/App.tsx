@@ -35,7 +35,8 @@ function App() {
               <Route path="/guruscore" element={<GuruScore />} />
               <Route path="/timeline" element={<GuruTimeline />} />
               <Route path="/settings" element={<Settings />} />
-             <Route path="/today" element={<TodayPage />}  /> {/* ✅ New Route */}
+             <Route path="/todays-target" element={<TodayPage />} />
+{/* ✅ New Route */}
             </Routes>
           </div>
         </div>
